@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Umair Siddique</title>
+    <link>http://www.umairsidd.com/publication-type/6/</link>
+      <atom:link href="http://www.umairsidd.com/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.umairsidd.com/images/icon_hue1304e875759fc0d982a43c5a5a65028_125680_512x512_fill_lanczos_center_2.png</url>
+      <title>6</title>
+      <link>http://www.umairsidd.com/publication-type/6/</link>
+    </image>
+    
+    <item>
+      <title>A Framework for Formal Reasoning about Geometrical Optics</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2014-framework/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2014-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Implementation of Computationally Complex Algorithms: Custom Instruction Approach</title>
+      <link>http://www.umairsidd.com/publication/content/publication/ahmed-2013-efficient/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/ahmed-2013-efficient/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

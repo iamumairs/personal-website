@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Osman Hasan | Umair Siddique</title>
+    <link>http://www.umairsidd.com/author/osman-hasan/</link>
+      <atom:link href="http://www.umairsidd.com/author/osman-hasan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Osman Hasan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.umairsidd.com/images/icon_hue1304e875759fc0d982a43c5a5a65028_125680_512x512_fill_lanczos_center_2.png</url>
+      <title>Osman Hasan</title>
+      <link>http://www.umairsidd.com/author/osman-hasan/</link>
+    </image>
+    
+    <item>
+      <title>Formalization of Asymptotic Notations in HOL4</title>
+      <link>http://www.umairsidd.com/publication/content/publication/iqbal-2019-formalization/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/iqbal-2019-formalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Proceedings of the CME-EI, FMM, CAAT, FVPS, M3SRD, OpenMath Workshops, Doctoral Program and Work in Progress at the Conference on Intelligent Computer Mathematics 2018 co-located with the 11th Conference on Intelligent Computer Mathematics (CICM 2018), Hagenberg, Austria, August 13-17, 2018</title>
+      <link>http://www.umairsidd.com/publication/content/publication/dblp-confmkm-2018-w/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/dblp-confmkm-2018-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal verification of platoon control strategies</title>
+      <link>http://www.umairsidd.com/publication/content/publication/rashid-2018-formal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/rashid-2018-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal reasoning about systems biology using theorem proving</title>
+      <link>http://www.umairsidd.com/publication/content/publication/rashid-2017-formal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/rashid-2017-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the formalization of zsyntax with applications in molecular biology</title>
+      <link>http://www.umairsidd.com/publication/content/publication/ahmad-2015-formalization/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/ahmad-2015-formalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards the formalization of fractional calculus in higher-order logic</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2015-towards/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2015-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal analysis of optical systems</title>
+      <link>http://www.umairsidd.com/publication/content/publication/khan-2014-formal/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/khan-2014-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formalization of Zsyntax to Reason About Molecular Pathways in HOL4</title>
+      <link>http://www.umairsidd.com/publication/content/publication/ahmad-2014-formalization/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/ahmad-2014-formalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Formal Reasoning about Molecular Pathways in HOL</title>
+      <link>http://www.umairsidd.com/publication/content/publication/ahmad-2014-towards/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/ahmad-2014-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis techniques for fractional order systems: A survey</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2012-analysis/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2012-analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

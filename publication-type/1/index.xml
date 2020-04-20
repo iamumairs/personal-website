@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Umair Siddique</title>
+    <link>http://www.umairsidd.com/publication-type/1/</link>
+      <atom:link href="http://www.umairsidd.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.umairsidd.com/images/icon_hue1304e875759fc0d982a43c5a5a65028_125680_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>http://www.umairsidd.com/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Formalization of Asymptotic Notations in HOL4</title>
+      <link>http://www.umairsidd.com/publication/content/publication/iqbal-2019-formalization/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/iqbal-2019-formalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal verification of platoon control strategies</title>
+      <link>http://www.umairsidd.com/publication/content/publication/rashid-2018-formal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/rashid-2018-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Refinement and Signal-Temporal Logic for Biological Systems</title>
+      <link>http://www.umairsidd.com/publication/content/publication/sanwal-2017-combining/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/sanwal-2017-combining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Analysis of Engineering Systems Based on Signal-Flow-Graph Theory</title>
+      <link>http://www.umairsidd.com/publication/content/publication/beillahi-2017-formal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/beillahi-2017-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal analysis of power electronic systems</title>
+      <link>http://www.umairsidd.com/publication/content/publication/beillahi-2015-formal/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/beillahi-2015-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formalizing physics: automation, presentation and foundation issues</title>
+      <link>http://www.umairsidd.com/publication/content/publication/kaliszyk-2015-formalizing/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/kaliszyk-2015-formalizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards the formalization of fractional calculus in higher-order logic</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2015-towards/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2015-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formalization of Zsyntax to Reason About Molecular Pathways in HOL4</title>
+      <link>http://www.umairsidd.com/publication/content/publication/ahmad-2014-formalization/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/ahmad-2014-formalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Formalization of Cardinal Points of Optical Systems</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2014-formalization/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2014-formalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Formal Reasoning about Molecular Pathways in HOL</title>
+      <link>http://www.umairsidd.com/publication/content/publication/ahmad-2014-towards/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/ahmad-2014-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Ray Optics Formalization of Optical Imaging Systems</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2014-towards/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2014-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new approach for the verification of optical systems</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2013-new/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2013-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal stability analysis of optical resonators</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2013-formal/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2013-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis techniques for fractional order systems: A survey</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2012-analysis/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2012-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Higher-Order Logic Formalization of Geometrical Optics</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2012-higher/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2012-higher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the formal analysis of geometrical optics in HOL</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2012-formal/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2012-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal modeling and analysis of biological regulatory networks using spin</title>
+      <link>http://www.umairsidd.com/publication/content/publication/rauf-2011-formal/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/rauf-2011-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The efficient implementation of S8 AES algorithm</title>
+      <link>http://www.umairsidd.com/publication/content/publication/ahmed-2011-efficient/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/ahmed-2011-efficient/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

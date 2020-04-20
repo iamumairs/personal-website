@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vincent Aravantinos | Umair Siddique</title>
+    <link>http://www.umairsidd.com/author/vincent-aravantinos/</link>
+      <atom:link href="http://www.umairsidd.com/author/vincent-aravantinos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vincent Aravantinos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.umairsidd.com/images/icon_hue1304e875759fc0d982a43c5a5a65028_125680_512x512_fill_lanczos_center_2.png</url>
+      <title>Vincent Aravantinos</title>
+      <link>http://www.umairsidd.com/author/vincent-aravantinos/</link>
+    </image>
+    
+    <item>
+      <title>Formal analysis of optical systems</title>
+      <link>http://www.umairsidd.com/publication/content/publication/khan-2014-formal/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/khan-2014-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new approach for the verification of optical systems</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2013-new/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2013-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal stability analysis of optical resonators</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2013-formal/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2013-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Higher-Order Logic Formalization of Geometrical Optics</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2012-higher/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2012-higher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the formal analysis of geometrical optics in HOL</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2012-formal/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2012-formal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
