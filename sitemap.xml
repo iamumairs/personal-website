@@ -488,10 +488,6 @@
   </url>
   
   <url>
-    <loc>http://www.umairsidd.com/author/</loc>
-  </url>
-  
-  <url>
     <loc>http://www.umairsidd.com/categories/</loc>
   </url>
   
@@ -509,6 +505,10 @@
   
   <url>
     <loc>http://www.umairsidd.com/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.umairsidd.com/author/umair-siddique/</loc>
   </url>
   
 </urlset>
