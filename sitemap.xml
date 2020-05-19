@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.umairsidd.com/publication-type/2/</loc>
+    <loc>http://www.umairsidd.com/publication-type/1/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -54,11 +54,6 @@
   
   <url>
     <loc>http://www.umairsidd.com/publication-type/0/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.umairsidd.com/publication-type/1/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -190,6 +185,11 @@
   <url>
     <loc>http://www.umairsidd.com/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.umairsidd.com/publication-type/2/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -485,6 +485,10 @@
   <url>
     <loc>http://www.umairsidd.com/author/w-ahmed/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.umairsidd.com/activities/</loc>
   </url>
   
   <url>
