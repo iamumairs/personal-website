@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>http://www.umairsidd.com/authors/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.umairsidd.com/publication/content/publication/rashid-2020-formal/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -39,6 +44,11 @@
   
   <url>
     <loc>http://www.umairsidd.com/author/umair-siddique/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.umairsidd.com/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -170,21 +180,6 @@
   <url>
     <loc>http://www.umairsidd.com/author/zoltan-kovacs/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.umairsidd.com/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.umairsidd.com/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.umairsidd.com/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -496,6 +491,10 @@
   </url>
   
   <url>
+    <loc>http://www.umairsidd.com/author/posts/</loc>
+  </url>
+  
+  <url>
     <loc>http://www.umairsidd.com/post/</loc>
   </url>
   
@@ -509,6 +508,10 @@
   
   <url>
     <loc>http://www.umairsidd.com/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.umairsidd.com/safetyops/</loc>
   </url>
   
   <url>
