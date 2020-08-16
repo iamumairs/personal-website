@@ -13,18 +13,10 @@
     </image>
     
     <item>
-      <title>Formal Verification of Cyber-Physical Systems using Theorem Proving</title>
+      <title>Formal Verification of Cyber-Physical Systems using Theorem Proving (Invited Paper)</title>
       <link>http://www.umairsidd.com/publication/content/publication/rashid-2020-formal/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://www.umairsidd.com/publication/content/publication/rashid-2020-formal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Formalization of Asymptotic Notations in HOL4</title>
-      <link>http://www.umairsidd.com/publication/content/publication/iqbal-2019-formalization/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.umairsidd.com/publication/content/publication/iqbal-2019-formalization/</guid>
       <description></description>
     </item>
     
@@ -53,6 +45,14 @@
     </item>
     
     <item>
+      <title>Rewriting-Based Runtime Verification for Alternation-Free HyperLTL</title>
+      <link>http://www.umairsidd.com/publication/content/publication/brett-2017-rewriting/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/brett-2017-rewriting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Formal analysis of power electronic systems</title>
       <link>http://www.umairsidd.com/publication/content/publication/beillahi-2015-formal/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
@@ -73,6 +73,14 @@
       <link>http://www.umairsidd.com/publication/content/publication/siddique-2015-towards/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>http://www.umairsidd.com/publication/content/publication/siddique-2015-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Framework for Formal Reasoning about Geometrical Optics</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2014-framework/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2014-framework/</guid>
       <description></description>
     </item>
     
@@ -109,10 +117,26 @@
     </item>
     
     <item>
+      <title>Towards the application of formal methods in process engineering</title>
+      <link>http://www.umairsidd.com/publication/content/publication/beillahi-2014-towards/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/beillahi-2014-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A new approach for the verification of optical systems</title>
       <link>http://www.umairsidd.com/publication/content/publication/siddique-2013-new/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>http://www.umairsidd.com/publication/content/publication/siddique-2013-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Implementation of Computationally Complex Algorithms: Custom Instruction Approach</title>
+      <link>http://www.umairsidd.com/publication/content/publication/ahmed-2013-efficient/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/ahmed-2013-efficient/</guid>
       <description></description>
     </item>
     

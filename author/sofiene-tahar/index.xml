@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Formal Verification of Cyber-Physical Systems using Theorem Proving</title>
+      <title>Formal Verification of Cyber-Physical Systems using Theorem Proving (Invited Paper)</title>
       <link>http://www.umairsidd.com/publication/content/publication/rashid-2020-formal/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://www.umairsidd.com/publication/content/publication/rashid-2020-formal/</guid>
@@ -113,6 +113,14 @@
       <link>http://www.umairsidd.com/publication/content/publication/siddique-2014-formalization/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>http://www.umairsidd.com/publication/content/publication/siddique-2014-formalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Formalization of Gamma Function in HOL</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2013-gamma/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2013-gamma/</guid>
       <description></description>
     </item>
     

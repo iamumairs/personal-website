@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Umair Siddique</title>
+    <title>Selected Publications | Umair Siddique</title>
     <link>http://www.umairsidd.com/publication/</link>
       <atom:link href="http://www.umairsidd.com/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <description>Selected Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Aug 2020 13:16:13 -0700</lastBuildDate>
     <image>
       <url>http://www.umairsidd.com/images/icon_hue1304e875759fc0d982a43c5a5a65028_125680_512x512_fill_lanczos_center_2.png</url>
-      <title>Publications</title>
+      <title>Selected Publications</title>
       <link>http://www.umairsidd.com/publication/</link>
     </image>
     
     <item>
-      <title>Formal Verification of Cyber-Physical Systems using Theorem Proving</title>
-      <link>http://www.umairsidd.com/publication/content/publication/rashid-2020-formal/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.umairsidd.com/publication/content/publication/rashid-2020-formal/</guid>
+      <title>Safetyops</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-safetyops/</link>
+      <pubDate>Fri, 14 Aug 2020 13:16:13 -0700</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-safetyops/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Formalization of Asymptotic Notations in HOL4</title>
-      <link>http://www.umairsidd.com/publication/content/publication/iqbal-2019-formalization/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.umairsidd.com/publication/content/publication/iqbal-2019-formalization/</guid>
+      <title>Formal Verification of Cyber-Physical Systems using Theorem Proving (Invited Paper)</title>
+      <link>http://www.umairsidd.com/publication/content/publication/rashid-2020-formal/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/rashid-2020-formal/</guid>
       <description></description>
     </item>
     
@@ -169,6 +169,14 @@
       <link>http://www.umairsidd.com/publication/content/publication/siddique-2014-formalization/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>http://www.umairsidd.com/publication/content/publication/siddique-2014-formalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Formalization of Gamma Function in HOL</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2013-gamma/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2013-gamma/</guid>
       <description></description>
     </item>
     
