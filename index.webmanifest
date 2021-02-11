@@ -1,15 +1,15 @@
 {
-  "name": "Umair Siddique",
-  "short_name": "Umair Siddique",
+  "name": "UMAIR SIDDIQUE",
+  "short_name": "UMAIR SIDDIQUE",
   "lang": "en-us",
   "theme_color": "#2962ff",
   "background_color": "#2962ff",
   "icons": [{
-    "src": "/images/icon_hue1304e875759fc0d982a43c5a5a65028_125680_192x192_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu57f19176c9e1293d4c8cad6f7305a538_9962_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/images/icon_hue1304e875759fc0d982a43c5a5a65028_125680_512x512_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu57f19176c9e1293d4c8cad6f7305a538_9962_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
