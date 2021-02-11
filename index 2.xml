@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Umair Siddique</title>
+    <link>http://www.umairsidd.com/</link>
+      <atom:link href="http://www.umairsidd.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Umair Siddique</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Aug 2020 13:16:13 -0700</lastBuildDate>
+    <image>
+      <url>http://www.umairsidd.com/images/icon_hue1304e875759fc0d982a43c5a5a65028_125680_512x512_fill_lanczos_center_2.png</url>
+      <title>Umair Siddique</title>
+      <link>http://www.umairsidd.com/</link>
+    </image>
+    
+    <item>
+      <title>Safetyops</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-safetyops/</link>
+      <pubDate>Fri, 14 Aug 2020 13:16:13 -0700</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-safetyops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Verification of Cyber-Physical Systems using Theorem Proving (Invited Paper)</title>
+      <link>http://www.umairsidd.com/publication/content/publication/rashid-2020-formal/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/rashid-2020-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>http://www.umairsidd.com/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Joint Proceedings of the CME-EI, FMM, CAAT, FVPS, M3SRD, OpenMath Workshops, Doctoral Program and Work in Progress at the Conference on Intelligent Computer Mathematics 2018 co-located with the 11th Conference on Intelligent Computer Mathematics (CICM 2018), Hagenberg, Austria, August 13-17, 2018</title>
+      <link>http://www.umairsidd.com/publication/content/publication/dblp-confmkm-2018-w/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/dblp-confmkm-2018-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Analysis of Discrete-Time Systems using z-Transform</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2018-formal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2018-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal verification of platoon control strategies</title>
+      <link>http://www.umairsidd.com/publication/content/publication/rashid-2018-formal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/rashid-2018-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Refinement and Signal-Temporal Logic for Biological Systems</title>
+      <link>http://www.umairsidd.com/publication/content/publication/sanwal-2017-combining/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/sanwal-2017-combining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Analysis of Engineering Systems Based on Signal-Flow-Graph Theory</title>
+      <link>http://www.umairsidd.com/publication/content/publication/beillahi-2017-formal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/beillahi-2017-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal reasoning about systems biology using theorem proving</title>
+      <link>http://www.umairsidd.com/publication/content/publication/rashid-2017-formal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/rashid-2017-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal verification of stability and chaos in periodic optical systems</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2017-formal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2017-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rewriting-Based Runtime Verification for Alternation-Free HyperLTL</title>
+      <link>http://www.umairsidd.com/publication/content/publication/brett-2017-rewriting/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/brett-2017-rewriting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the formal analysis of Gaussian optical systems in HOL</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2016-formal/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2016-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Analysis of Geometrical Optics using Theorem Proving</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2015-formal/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2015-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal analysis of power electronic systems</title>
+      <link>http://www.umairsidd.com/publication/content/publication/beillahi-2015-formal/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/beillahi-2015-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formalizing physics: automation, presentation and foundation issues</title>
+      <link>http://www.umairsidd.com/publication/content/publication/kaliszyk-2015-formalizing/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/kaliszyk-2015-formalizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the formalization of zsyntax with applications in molecular biology</title>
+      <link>http://www.umairsidd.com/publication/content/publication/ahmad-2015-formalization/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/ahmad-2015-formalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards the formalization of fractional calculus in higher-order logic</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2015-towards/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2015-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Framework for Formal Reasoning about Geometrical Optics</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2014-framework/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2014-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal analysis of optical systems</title>
+      <link>http://www.umairsidd.com/publication/content/publication/khan-2014-formal/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/khan-2014-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formalization of Zsyntax to Reason About Molecular Pathways in HOL4</title>
+      <link>http://www.umairsidd.com/publication/content/publication/ahmad-2014-formalization/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/ahmad-2014-formalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Formalization of Cardinal Points of Optical Systems</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2014-formalization/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2014-formalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Formalization of Gamma Function in HOL</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2013-gamma/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2013-gamma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Formalization of Signal-Flow-Graphs in HOL</title>
+      <link>http://www.umairsidd.com/publication/content/publication/beillahi-2014-formalization/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/beillahi-2014-formalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability Verification of Optical and Laser Resonators in HOL Light</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2014-stability/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2014-stability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Formal Reasoning about Molecular Pathways in HOL</title>
+      <link>http://www.umairsidd.com/publication/content/publication/ahmad-2014-towards/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/ahmad-2014-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Ray Optics Formalization of Optical Imaging Systems</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2014-towards/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2014-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards the application of formal methods in process engineering</title>
+      <link>http://www.umairsidd.com/publication/content/publication/beillahi-2014-towards/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/beillahi-2014-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new approach for the verification of optical systems</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2013-new/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2013-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Implementation of Computationally Complex Algorithms: Custom Instruction Approach</title>
+      <link>http://www.umairsidd.com/publication/content/publication/ahmed-2013-efficient/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/ahmed-2013-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal stability analysis of optical resonators</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2013-formal/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2013-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis techniques for fractional order systems: A survey</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2012-analysis/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2012-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal modeling and analysis of the mal-associated biological regulatory network: insight into cerebral malaria</title>
+      <link>http://www.umairsidd.com/publication/content/publication/ahmad-2012-formal/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/ahmad-2012-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Higher-Order Logic Formalization of Geometrical Optics</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2012-higher/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2012-higher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the formal analysis of geometrical optics in HOL</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2012-formal/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2012-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal analysis of Fractional Order Systems in Higher-order Logic</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2011-formal/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2011-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal modeling and analysis of biological regulatory networks using spin</title>
+      <link>http://www.umairsidd.com/publication/content/publication/rauf-2011-formal/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/rauf-2011-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The efficient implementation of S8 AES algorithm</title>
+      <link>http://www.umairsidd.com/publication/content/publication/ahmed-2011-efficient/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/ahmed-2011-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>http://www.umairsidd.com/author/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/author/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple Slides</title>
+      <link>http://www.umairsidd.com/slides/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/slides/test/</guid>
+      <description>&lt;h1 id=&#34;my-first-slides-with-markdown&#34;&gt;My First Slides with Markdown&lt;/h1&gt;
+&lt;p&gt;System Safety | Autonomous Systems&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

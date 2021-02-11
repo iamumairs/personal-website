@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Umair Siddique</title>
+    <link>http://www.umairsidd.com/publication-type/7/</link>
+      <atom:link href="http://www.umairsidd.com/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.umairsidd.com/images/icon_hue1304e875759fc0d982a43c5a5a65028_125680_512x512_fill_lanczos_center_2.png</url>
+      <title>7</title>
+      <link>http://www.umairsidd.com/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>Formal Analysis of Geometrical Optics using Theorem Proving</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2015-formal/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2015-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal analysis of Fractional Order Systems in Higher-order Logic</title>
+      <link>http://www.umairsidd.com/publication/content/publication/siddique-2011-formal/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://www.umairsidd.com/publication/content/publication/siddique-2011-formal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
