@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.umairsidd.com/publication/</loc>
+    <lastmod>2020-08-14T13:16:13-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.umairsidd.com/publication-type/3/</loc>
     <lastmod>2020-08-14T13:16:13-07:00</lastmod>
   </url>
@@ -24,11 +29,6 @@
   
   <url>
     <loc>http://www.umairsidd.com/publication/content/publication/siddique-safetyops/</loc>
-    <lastmod>2020-08-14T13:16:13-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.umairsidd.com/publication/</loc>
     <lastmod>2020-08-14T13:16:13-07:00</lastmod>
   </url>
   
@@ -478,7 +478,7 @@
   </url>
   
   <url>
-    <loc>http://www.umairsidd.com/activities/</loc>
+    <loc>http://www.umairsidd.com/author/</loc>
   </url>
   
   <url>
@@ -503,14 +503,6 @@
   
   <url>
     <loc>http://www.umairsidd.com/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.umairsidd.com/author/umair-siddiuqe/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.umairsidd.com/safetyops/</loc>
   </url>
   
 </urlset>
